@@ -10,17 +10,17 @@ Curso de [Engenharia de Software](http://www.uepg.br/catalogo/cursos/2016/bachar
 ### 1º Bimestre:
 #### Trabalho Escrito
 
------
+#
 
 ### 2º Bimestre:
 #### Trabalho (First Fit e Best Fit)
 
------
+#
 
 ### 3º Bimestre:
 #### Jogo da Memória (CMD)
 
------
+#
 
 ### 4º Bimestre:
 #### Jogo da Memória (Biblioteca Allegro - C)
