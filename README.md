@@ -16,23 +16,23 @@ Curso de [Engenharia de Software](http://www.uepg.br/catalogo/cursos/2016/bachar
 
 # 
 
-### 1º Bimestre:
+### [1º Bimestre](https://github.com/eduschadesoares/algoritmosEProgramacao/tree/master/1%C2%BA%20Bimestre)
 #### Trabalho Escrito
 
 #
 
-### 2º Bimestre:
+### [2º Bimestre](https://github.com/eduschadesoares/algoritmosEProgramacao/tree/master/2%C2%BA%20Bimestre)
 #### Trabalho (First Fit e Best Fit)
 
 #
 
-### 3º Bimestre:
+### [3º Bimestre](https://github.com/eduschadesoares/algoritmosEProgramacao/tree/master/3%C2%BA%20Bimestre)
 #### Jogo da Memória (CMD)
 
 #
 
-### 4º Bimestre:
-#### Jogo da Memória (Biblioteca Allegro - C)
+### [4º Bimestre](https://github.com/eduschadesoares/algoritmosEProgramacao/tree/master/4%C2%BA%20Bimestre)
+#### [Jogo da Memória](https://github.com/eduschadesoares/algoritmosEProgramacao/tree/master/4%C2%BA%20Bimestre) (Biblioteca Allegro - C)
 
 #
 
