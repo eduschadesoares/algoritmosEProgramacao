@@ -12,7 +12,7 @@ Curso de [Engenharia de Software](http://www.uepg.br/catalogo/cursos/2016/bachar
 - [x] [2º Bimestre](#2º-bimestre) (Best Fit, First Fit e Worst Fit)
 - [x] [3º Bimestre](#3º-bimestre) (Jogo da Memória CMD)
 - [x] [4º Bimestre](#4º-bimestre) (Jogo da Memória GUI)
-- [x] [Exercícios](#exercicios) (Exercícios)
+- [x] [Exercícios](#exercícios) (Exercícios)
 
 # 
 
