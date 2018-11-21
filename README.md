@@ -1,4 +1,4 @@
-<img align="right" width="270" height="270" src="https://github.com/eduschadesoares/algoritmosEProgramacao/blob/master/Media/software.png">
+<img align="right" width="200" height="200" src="https://github.com/eduschadesoares/algoritmosEProgramacao/blob/master/Media/software.png">
 
 # Algoritmos e Programação (1º Ano) 
 
