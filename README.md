@@ -17,22 +17,22 @@ Curso de [Engenharia de Software](http://www.uepg.br/catalogo/cursos/2016/bachar
 # 
 
 ### [1º Bimestre](https://github.com/eduschadesoares/algoritmosEProgramacao/tree/master/1%C2%BA%20Bimestre)
-1) [Trabalho Manual de Referência Rápido - Pseudo-código, C e Python](https://github.com/eduschadesoares/algoritmosEProgramacao/blob/master/1%C2%BA%20Bimestre/Trabalho%20Manual%20de%20Refer%C3%AAncia%20R%C3%A1pido%20-%20Pseudo-c%C3%B3digo%2C%20C%20e%20Python.pdf)
+- [Trabalho Manual de Referência Rápido - Pseudo-código, C e Python](https://github.com/eduschadesoares/algoritmosEProgramacao/blob/master/1%C2%BA%20Bimestre/Trabalho%20Manual%20de%20Refer%C3%AAncia%20R%C3%A1pido%20-%20Pseudo-c%C3%B3digo%2C%20C%20e%20Python.pdf)
 
 #
 
 ### [2º Bimestre](https://github.com/eduschadesoares/algoritmosEProgramacao/tree/master/2%C2%BA%20Bimestre)
-1) [Trabalho (First Fit e Best Fit)](https://github.com/eduschadesoares/algoritmosEProgramacao/tree/master/2%C2%BA%20Bimestre)
+- [Trabalho (First Fit e Best Fit)](https://github.com/eduschadesoares/algoritmosEProgramacao/tree/master/2%C2%BA%20Bimestre)
 
 #
 
 ### [3º Bimestre](https://github.com/eduschadesoares/algoritmosEProgramacao/tree/master/3%C2%BA%20Bimestre)
-1) [Jogo da Memória (CMD)](https://github.com/eduschadesoares/algoritmosEProgramacao/blob/master/3%C2%BA%20Bimestre/Memoria%20CMD.cpp)
+- [Jogo da Memória (CMD)](https://github.com/eduschadesoares/algoritmosEProgramacao/blob/master/3%C2%BA%20Bimestre/Memoria%20CMD.cpp)
 
 #
 
 ### [4º Bimestre](https://github.com/eduschadesoares/algoritmosEProgramacao/tree/master/4%C2%BA%20Bimestre)
-1) [Jogo da Memória (Biblioteca Allegro - C)](https://github.com/eduschadesoares/algoritmosEProgramacao/tree/master/4%C2%BA%20Bimestre)
+- [Jogo da Memória (Biblioteca Allegro - C)](https://github.com/eduschadesoares/algoritmosEProgramacao/tree/master/4%C2%BA%20Bimestre)
 
 #
 
