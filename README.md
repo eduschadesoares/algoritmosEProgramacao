@@ -17,7 +17,8 @@ Curso de [Engenharia de Software](http://www.uepg.br/catalogo/cursos/2016/bachar
 # 
 
 ### [1º Bimestre](https://github.com/eduschadesoares/algoritmosEProgramacao/tree/master/1%C2%BA%20Bimestre)
-#### Trabalho Escrito
+1) Trabalho Escrito
+    - [Trabalho Manual de Referência Rápido - Pseudo-código, C e Python](https://github.com/eduschadesoares/algoritmosEProgramacao/blob/master/1%C2%BA%20Bimestre/Trabalho%20Manual%20de%20Refer%C3%AAncia%20R%C3%A1pido%20-%20Pseudo-c%C3%B3digo%2C%20C%20e%20Python.pdf)
 
 #
 
