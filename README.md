@@ -1,3 +1,5 @@
+<img align="right" width="150" height="150" src="https://github.com/eduschadesoares/algoritmosEProgramacao/blob/master/Media/software.png">
+
 # Algoritmos e Programação (1º Ano) 
 
 ### 1º Bimestre:
