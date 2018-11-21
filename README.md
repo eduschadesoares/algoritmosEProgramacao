@@ -9,7 +9,7 @@ Curso de [Engenharia de Software](http://www.uepg.br/catalogo/cursos/2016/bachar
 
 #### Conteúdo 
 - [x] [1º Bimestre](#1º-bimestre) (Trabalho Teórico)
-- [x] [2º Bimestre](#2º-bimestre) (Best Fit, First Fit e Worst Fit)
+- [x] [2º Bimestre](#2º-bimestre) (Best Fit e First Fit)
 - [x] [3º Bimestre](#3º-bimestre) (Jogo da Memória CMD)
 - [x] [4º Bimestre](#4º-bimestre) (Jogo da Memória GUI)
 - [x] [Exercícios](#exercícios) (Exercícios)
@@ -23,17 +23,17 @@ Curso de [Engenharia de Software](http://www.uepg.br/catalogo/cursos/2016/bachar
 #
 
 ### [2º Bimestre](https://github.com/eduschadesoares/algoritmosEProgramacao/tree/master/2%C2%BA%20Bimestre)
-#### Trabalho (First Fit e Best Fit)
+1) [Trabalho (First Fit e Best Fit)](https://github.com/eduschadesoares/algoritmosEProgramacao/tree/master/2%C2%BA%20Bimestre)
 
 #
 
 ### [3º Bimestre](https://github.com/eduschadesoares/algoritmosEProgramacao/tree/master/3%C2%BA%20Bimestre)
-#### Jogo da Memória (CMD)
+1) [Jogo da Memória (CMD)](https://github.com/eduschadesoares/algoritmosEProgramacao/blob/master/3%C2%BA%20Bimestre/Memoria%20CMD.cpp)
 
 #
 
 ### [4º Bimestre](https://github.com/eduschadesoares/algoritmosEProgramacao/tree/master/4%C2%BA%20Bimestre)
-#### [Jogo da Memória](https://github.com/eduschadesoares/algoritmosEProgramacao/tree/master/4%C2%BA%20Bimestre) (Biblioteca Allegro - C)
+1) [Jogo da Memória](https://github.com/eduschadesoares/algoritmosEProgramacao/tree/master/4%C2%BA%20Bimestre) (Biblioteca Allegro - C)
 
 #
 
