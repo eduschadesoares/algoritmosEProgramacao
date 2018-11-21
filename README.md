@@ -32,8 +32,9 @@ Curso de [Engenharia de Software](http://www.uepg.br/catalogo/cursos/2016/bachar
 #
 
 ### [4º Bimestre](https://github.com/eduschadesoares/algoritmosEProgramacao/tree/master/4%C2%BA%20Bimestre)
-1) [Jogo da Memória (Biblioteca Allegro - C](https://github.com/eduschadesoares/algoritmosEProgramacao/tree/master/4%C2%BA%20Bimestre))
+1) [Jogo da Memória (Biblioteca Allegro - C)](https://github.com/eduschadesoares/algoritmosEProgramacao/tree/master/4%C2%BA%20Bimestre)
 
 #
 
 ### Exercícios:
+[Lista de Exercícios](https://github.com/eduschadesoares/algoritmosEProgramacao/tree/master/Exerc%C3%ADcios)
